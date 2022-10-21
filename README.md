@@ -1,4 +1,4 @@
-### Hi there 👋
+### Planning on fixing this README once the midterm school break begins next week
 
 <!--
 **erik-lance/erik-lance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
