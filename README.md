@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Godot game jams:) can be music/writing/art if you don't know GDScript!
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything related to game dev or HCI :-)
-- 📫 How to reach me: Hit my email at my profile!
+- 📫 How to reach me: Hit my email! (eriklance@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I smell food to measure the temperature
 
