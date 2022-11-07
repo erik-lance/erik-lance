@@ -1,4 +1,12 @@
-### Planning on fixing this README once the midterm school break begins next week
+### Planning on fixing this README once the term ends
+- 🔭 I’m currently working on a Godot game based off of my old Unity Game (Shiba Fighters)!
+- 🌱 I’m currently learning Azure
+- 👯 I’m looking to collaborate on Godot game jams:) can be music/writing/art if you don't know GDScript!
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about anything related to game dev or HCI :-)
+- 📫 How to reach me: Hit my email at my profile!
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I smell food to measure the temperature
 
 <!--
 **erik-lance/erik-lance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
