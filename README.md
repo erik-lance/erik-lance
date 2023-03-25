@@ -1,3 +1,5 @@
+[Check out my in-progress website!](https://eriklance.gatsbyjs.io/)
+
 ### Planning on fixing this README once the term ends
 
 -   🔭 I’m currently working on a Godot game based off of my old Unity Game (Shiba Fighters)!
