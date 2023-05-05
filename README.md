@@ -1,13 +1,8 @@
 [Check out my in-progress website!](https://eriklance.gatsbyjs.io/)
 
-### Planning on fixing this README once the term ends
-
 -   🔭 I’m currently working on a Godot game based off of my old Unity Game (Shiba Fighters)!
 -   🌱 I’m currently learning Azure
--   👯 I’m looking to collaborate on Godot game jams:) can be music/writing/art if you don't know GDScript!
--   🤔 I’m looking for help with ...
 -   💬 Ask me about anything related to game dev or HCI :-)
--   📫 How to reach me: Hit my email! (eriklance@gmail.com)
 -   😄 Pronouns: he/him
 -   ⚡ Fun fact: I smell food to measure the temperature
 
@@ -48,6 +43,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style-flat-square&logo=jira)
 
 ### Stats
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erik-lance&theme=dracula)
 ![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erik-lance&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erik-lance&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ferik-lance1212%2Fhit-counter)-->
