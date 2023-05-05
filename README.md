@@ -7,9 +7,9 @@
 -   ⚡ Fun fact: I smell food to measure the temperature
 
 ### Links
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-lance-tiongquico/)](https://www.linkedin.com/in/erik-lance-tiongquico/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eriklance@gmail.com)](mailto:eriklance@gmail.com)
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&link=https://maplepoki.itch.io)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-lance-tiongquico)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eriklance@gmail.com)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://maplepoki.itch.io)
 
 ### Languages
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
