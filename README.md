@@ -9,6 +9,7 @@
 ### Links
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erik-lance-tiongquico/)](https://www.linkedin.com/in/erik-lance-tiongquico/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eriklance@gmail.com)](mailto:eriklance@gmail.com)
+![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white&link=https://maplepoki.itch.io)
 
 ### Languages
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -43,7 +44,6 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style-flat-square&logo=jira)
 
 ### Stats
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erik-lance&theme=dracula)
-![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erik-lance&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erik-lance&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<!--![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ferik-lance1212%2Fhit-counter)-->
+<!--![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erik-lance&theme=dracula)-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=erik-lance&show_icons=true&hide_border=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erik-lance&layout=compact&hide_border=true&theme=dracula)
