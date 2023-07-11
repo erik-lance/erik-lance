@@ -1,7 +1,7 @@
 [Check out my in-progress website!](https://eriklance.gatsbyjs.io/)
 
 -   🔭 I’m currently working on a Godot game based off of my old Unity Game (Shiba Fighters)!
--   🌱 I’m currently learning Azure
+-   🌱 I’m currently learning Azure and .NET
 -   💬 Ask me about anything related to game dev or HCI :-)
 -   😄 Pronouns: he/him
 -   ⚡ Fun fact: I smell food to measure the temperature
