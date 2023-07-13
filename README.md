@@ -51,5 +51,12 @@
 
 ### Stats
 <!--![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erik-lance&theme=dracula)-->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=erik-lance&show_icons=true&hide_border=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erik-lance&layout=compact&hide_border=true&theme=dracula)
+<!--
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=erik-lance&show_icons=true&hide_border=true&theme=dracula)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erik-lance&layout=compact&hide_border=true&theme=dracula)
+-->
+
+<div>
+  <img align=top src="https://github-readme-stats.vercel.app/api?username=erik-lance&show_icons=true&hide_border=true&theme=dracula" alt="GitHub stats" style="height: 200px;" />
+  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-lance&layout=compact&hide_border=true&theme=dracula" alt="Top Languages" style="height: 200px;" />
+</div>
