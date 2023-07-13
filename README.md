@@ -47,7 +47,7 @@
 
 ### Others
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=flat-square&logo=prettier)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style-flat-square&logo=jira)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ### Stats
