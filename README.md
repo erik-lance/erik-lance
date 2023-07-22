@@ -1,6 +1,6 @@
-[Check out my in-progress website!](https://eriklance.gatsbyjs.io/)
+Currently building a new portfolio website!
 
--   🔭 I’m currently working on a Godot game based off of my old Unity Game (Shiba Fighters)!
+-   🔭 I’m currently working on a Godot game based on my old Unity Game (Shiba Fighters)!
 -   🌱 I’m currently learning Azure and .NET
 -   💬 Ask me about anything related to game dev or HCI :-)
 -   😄 Pronouns: he/him
