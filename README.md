@@ -61,3 +61,5 @@ Currently building a new portfolio website!
   <img align=top src="https://github-readme-stats.vercel.app/api?username=erik-lance&show_icons=true&hide_border=true&theme=dracula" alt="GitHub stats" style="height: 190px;" />
   <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-lance&layout=compact&hide_border=true&theme=dracula" alt="Top Languages" style="height: 190px;" />
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=erik-lance&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
