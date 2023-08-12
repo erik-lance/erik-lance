@@ -1,4 +1,4 @@
-Currently building a new portfolio website!
+![Visit my Website!](https://erik-lance.vercel.app/)
 
 -   🔭 I’m currently working on a Godot game based on my old Unity Game (Shiba Fighters)!
 -   🌱 I’m currently learning Azure and .NET
