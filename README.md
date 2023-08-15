@@ -1,4 +1,4 @@
-[Visit my Website!](https://erik-lance.vercel.app/)
+[Visit my Website!](https://eriklance.com/)
 
 -   🔭 I’m currently working on a Godot game based on my old Unity Game (Shiba Fighters)!
 -   🌱 I’m currently learning Azure and .NET
