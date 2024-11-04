@@ -1,6 +1,6 @@
 [Visit my Website!](https://eriklance.com/)
 
-Currently working on a thesis project, [NewsMead](https://github.com/ubergonmx/newsmead) which is a mobile app for older adults to assist with tailored news reading. Uses the [NAML](https://github.com/wuch15/IJCAI2019-NAML) recommender system with our own API. We also conduct a focus group discussion with older adults with three iterations.
+Currently finishing my last term at De La Salle University and working on some projects:-)
 
 -   🔭 I’m currently working on a Godot game based on my old Unity Game (Shiba Fighters)!
 -   🌱 I’m currently learning Azure and .NET
