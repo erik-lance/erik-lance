@@ -1,9 +1,9 @@
 [Visit my Website!](https://eriklance.com/)
 
-Currently finishing my last term at De La Salle University and working on some projects:-)
+Recently graduated from DLSU as Magna Cum Laude and as a Gawad Saliksik Awardee for my research on older adults and mobile applications!
 
--   🔭 I’m currently working on a Godot game based on my old Unity Game (Shiba Fighters)!
--   🌱 I’m currently learning Azure and .NET
+-   🔭 On my pass time I am currently working on a Godot game based on my old Unity Game (Shiba Fighters)!
+-   🌱 I am also currently learning Azure and .NET
 -   💬 Ask me about anything related to game dev or HCI :-)
 -   😄 Pronouns: he/him
 -   ⚡ Fun fact: I smell food to measure the temperature
