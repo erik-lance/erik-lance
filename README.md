@@ -2,7 +2,7 @@
 
 Recently graduated from DLSU as Magna Cum Laude and as a Gawad Saliksik Awardee for my research on older adults and mobile applications!
 
--   🔭 On my pass time I am currently working on a Godot game based on my old Unity Game (Shiba Fighters)!
+-   🔭 On my pastime I am currently working on a Godot game based on my old Unity Game (Shiba Fighters)!
 -   🌱 I am also currently learning Azure and .NET
 -   💬 Ask me about anything related to game dev or HCI :-)
 -   😄 Pronouns: he/him
